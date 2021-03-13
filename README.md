@@ -14,6 +14,18 @@
 > bash install.sh
 > npm start
 ```
+## Windows
+* [`Download ffmpeg`](https://ffmpeg.org/download.html#build-windows) and set path
+* [`Download wget`](https://eternallybored.org/misc/wget/releases/) and set path
+* [`Download Node JS`](https://nodejs.org/en/download/)
+* [`Download Git`](https://git-scm.com/downloads)
+```cmd
+> git clone https://github.com/lindow666/Selfbot-whatsapp.git
+> cd Selfbot-whatsapp
+> npm i
+> npm start
+> scan qr
+```
 ## Edit config file
 Edit the required value in [`option.json`](https://github.com/lindow666/Selfbot-whatsapp/blob/main/src/option.json)
 
