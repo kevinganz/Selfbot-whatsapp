@@ -27,14 +27,238 @@ Nopalkey Get in [`Naufal Rest API`](http://naufalhoster.xyz)
     "Nopalkey": "YourApikey"
 }
 ```
+## Available Feature
 
-List menu in [`index.js`](https://github.com/lindow666/Selfbot-whatsapp/blob/main/index.js)
+## System
+* upname
+* afk (beta)
+* help
+* setpp
+* eval
+* term
+* timer
+* facematching
+* return
+* shutdown
+* speed
+* unread?
+* pin
+* unpin
+* mute
+* unmute
+* archive
+* unarchive
+* delchat
+* getbio
+* getpict
+* upstory
+* upstorypic
+* upstoryvid
+* hidetag
+* stikertag
+* rptag
+* antidelete
+* swm
+* sfire
+* imagetag
+* fakereply
+* fakedeface
+* bugfakemessage
+* fakeimg
+* addsticker
+* getsticker
+* liststicker
+* addvn
+* getvn
+* listvn
+* addimage
+* getimage
+* listimage
+* addvideo
+* getvid
+* listvideo
+* readmore
+* setprefix
+* setthumb
+* sethelpimg
+* setreply
+* fordward
+* setstatus
+* readall
+* unreadall
+* setpp
+* me
+* tagme
+* simi
+* virtex
+* chat
+* runtime
+* alquran
+## Tools
+* pastebin
+* encbinary
+* decbinary
+* dorking
+* encode64
+* decode64
+* encode32
+* decode32
+* encoctal
+* becrypt
+## Spam feature
+* spamcall
+* spam1
+* spam2
+* spam3
+* spam4
+* spam5
+* spam6
+* spam7
+* spam8 
+## Media
+* hilih
+* holoh
+* pussy
+* moddroid
+* happymod
+* tabok
+* terbalik
+* huruf
+* kiss
+* ttp
+* attp
+* nsfwgif
+## Sound
+* toptt
+* bass
+* slow
+* chipmunk
+* fatsound
+* tts
+* citacita
+## Random menu
+* randomporn
+* randomhorror
+* asupan
+* berita
+* randomanime
+* quotes
+* quotesnime
+* katailham
+* randomquran
+* fml
+* bucin
+## Akaneko
+* wallpaperdesktop
+* wallpaperhape
+* nekonime
+* nsfwneko
+* rahentai
+## Downloader
+* telesticker
+* scplay
+* googleimg
+* soundcloud
+* facebook
+* pinterestdl
+* phdl
+* xnxxsearch
+* xnxx
+* igdl
+* igstory
+* ighl
+* tiktok
+* tinyurl
+* ytmp3
+* ytmp4
+* ytsearch
+* play
+* playvideo
+* joox
+* clone
+* emoji
+## Search
+* cuaca
+* map
+* whatanime
+* nhentai
+* nhentaipdf
+* drakor
+* kusonimesearch
+* kusonime
+* jooxf
+* igstalk
+* jadwaltvnow
+* jadwaltv
+* jadwalsholat
+* github
+* xvideos
+* lirik
+* pinterest
+* wiki
+* film
+## Image
+* carbon
+* qrcode
+* qrreader
+* imgbb
+* urltoimg
+* toimg
+* ssweb
+* nulis
+* sticker
+* stickergif
+* harta
+* meme
+* picmeme
+* memeind
+* darkjoke
+## Group
+* group
+* cgc
+* promote
+* demote
+* add
+* setnamegc
+* setdesc
+* kick
+* kicktime
+* listadmin
+* gc open/lock
+* antilink
+* nobadword
+* addbadword
+* delbadword
+* listbadword
+* tagall
+* ownergc
+* leave
+## Textprome
+* Available textprome menu
+## Photooxy
+* Available photooxy menu
+## Ephoto
+* Available ephoto menu
+## Photo effect
+* wasted
+* phcostum
+* wineffect
+* zoomffect
+* distortion
+* negative
+* nightvision
+* cartoon
+* fire
+* graviti
+* comic
+## Nsfw
+* Available nsfwmenu
+
+And more in [`index.js`](https://github.com/lindow666/Selfbot-whatsapp/blob/main/index.js)
 
 ## My social media
 * [`WhatsApp`](http://wa.me/6289513946766)
 * [`Instagram`](http://instagram.com/lindoww.6)
-
-
 
 ## Join Group
 * [`My Group`](https://chat.whatsapp.com/JYb7i2b4GbICa0fk17KHOk)
