@@ -68,9 +68,10 @@ Nopalkey Get in [`Naufal Rest API`](http://naufalhoster.xyz)
 * upstoryvid
 * hidetag
 * stikertag
+* sticker (reply_img)
 * rptag
 * antidelete
-* swm
+* swm (reply_img)
 * sfire
 * imagetag
 * fakereply
