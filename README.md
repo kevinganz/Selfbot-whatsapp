@@ -26,7 +26,7 @@
 > npm start
 > scan qr
 ```
-## Kalo mau work semua ya pasang apikey, jangan malah protes ke gua :D
+## Kalo mau work semua ya pasang apikey jangan malah protes ke gua :D
 
 ## Edit config file
 Edit the required value in [`option.json`](https://github.com/lindow666/Selfbot-whatsapp/blob/main/src/option.json)
@@ -285,3 +285,4 @@ And more in [`index.js`](https://github.com/lindow666/Selfbot-whatsapp/blob/main
 * [`Hafizh`](https://github.com/HAFizh-15)
 * [`LolHuman`](https://github.com/LoL-Human)
 * [`Ehan`](http://github.com/EhanGanss)
+* [`Riyan`](http://github.com/shitara999)
