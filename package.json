@@ -29,6 +29,7 @@
     "multistream": "^2.1.0",
     "needle": "^2.5.2",
     "node-fetch": "^2.6.1",
+    "ytsr": "^3.3.1",
     "node-gtts": "^2.0.2",
     "node-tesseract-ocr": "^2.0.0",
     "os": "^0.1.1",
