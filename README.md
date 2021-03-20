@@ -35,10 +35,12 @@ Lolkey Get in [`LoL Human Rest API`](http://api.lolhuman.xyz/)
 
 Nopalkey Get in [`Naufal Rest API`](http://naufalhoster.xyz)
 
+Tobzkey Get in [`Tobz Api`](http://tobz-api.herokuapp.com)
 ```json
 {
     "Lolkey": "YourApikey",
-    "Nopalkey": "YourApikey"
+    "Nopalkey": "YourApikey",
+    "Tobzkey": "YourApikey"
 }
 ```
 ## Available Feature
