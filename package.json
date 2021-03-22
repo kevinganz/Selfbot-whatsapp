@@ -2,7 +2,7 @@
   "name": "Selfbot-Whatsapp",
   "version": "1.0.0",
   "description": "Termux only",
-  "main": "index.js",
+  "main": "lindow.js",
   "directories": {
     "lib": "lib"
   },
